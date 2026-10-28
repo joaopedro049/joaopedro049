@@ -2,9 +2,9 @@
 
 ### Desenvolvedor Web em formação
 
-Estudante de tecnologia, interessado em desenvolvimento web e na criação de soluções digitais.
+Olá! 👋
 
-Atualmente, estou desenvolvendo meus conhecimentos em programação, criando projetos práticos e aprendendo boas práticas de desenvolvimento.
+Sou estudante de tecnologia, interessado em desenvolvimento web e na criação de soluções digitais. Estou construindo minha experiência por meio de projetos práticos e buscando evoluir continuamente minhas habilidades.
 
 ## 🛠️ Tecnologias e estudos
 
@@ -15,19 +15,19 @@ Atualmente, estou desenvolvendo meus conhecimentos em programação, criando pro
 - Bancos de dados
 - Git e GitHub
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
-Em breve, adicionarei aqui meus principais projetos, com descrições, tecnologias utilizadas e demonstrações.
+Em desenvolvimento: projetos práticos para aplicar conhecimentos de programação, explorar novas tecnologias e construir meu portfólio.
 
-## 🎯 Objetivo
+## 🎯 Objetivo profissional
 
-Busco uma oportunidade de estágio ou primeiro emprego na área de tecnologia, onde eu possa aprender, colaborar com a equipe e evoluir como desenvolvedor.
+Busco minha primeira oportunidade na área de tecnologia, com interesse em estágio ou vaga júnior, para contribuir com a equipe, aprender com profissionais experientes e crescer como desenvolvedor.
 
 ## 📫 Contato
 
-- LinkedIn: [Adicione seu link do LinkedIn]
 - GitHub: https://github.com/joaopedro049
+- LinkedIn: adicione seu link quando o perfil estiver pronto.
 
 ---
 
-*Aprendendo na prática e evoluindo a cada projeto.*
+*Aprendendo na prática, um projeto de cada vez.*
