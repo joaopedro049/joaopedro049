@@ -1,16 +1,33 @@
-## Hi there 👋
+# João Pedro Ferreira
 
-<!--
-**joaopedro049/joaopedro049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Web em formação
 
-Here are some ideas to get you started:
+Estudante de tecnologia, interessado em desenvolvimento web e na criação de soluções digitais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou desenvolvendo meus conhecimentos em programação, criando projetos práticos e aprendendo boas práticas de desenvolvimento.
+
+## 🛠️ Tecnologias e estudos
+
+- HTML e CSS
+- JavaScript
+- React
+- Node.js
+- Bancos de dados
+- Git e GitHub
+
+## 🚀 Projetos em destaque
+
+Em breve, adicionarei aqui meus principais projetos, com descrições, tecnologias utilizadas e demonstrações.
+
+## 🎯 Objetivo
+
+Busco uma oportunidade de estágio ou primeiro emprego na área de tecnologia, onde eu possa aprender, colaborar com a equipe e evoluir como desenvolvedor.
+
+## 📫 Contato
+
+- LinkedIn: [Adicione seu link do LinkedIn]
+- GitHub: https://github.com/joaopedro049
+
+---
+
+*Aprendendo na prática e evoluindo a cada projeto.*
